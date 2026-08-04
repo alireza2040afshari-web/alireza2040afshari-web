@@ -61,3 +61,20 @@
     </td>
   </tr>
 </table>
+## 💻 Tech Stack & Skills
+
+### 🐍 Python
+![Python](https://progress-bar.dev/80/?title=Python&color=3776AB)
+
+### 🔧 Git & GitHub
+![Git](https://progress-bar.dev/75/?title=Git&color=F05032)
+![GitHub](https://progress-bar.dev/80/?title=GitHub&color=181717)
+
+### 📊 Data Science
+![NumPy](https://progress-bar.dev/70/?title=NumPy&color=013243)
+![Pandas](https://progress-bar.dev/70/?title=Pandas&color=150458)
+![Matplotlib](https://progress-bar.dev/65/?title=Matplotlib&color=11557C)
+
+### 🚀 Currently Learning
+![Django](https://progress-bar.dev/30/?title=Django&color=092E20)
+![AI/ML](https://progress-bar.dev/20/?title=AI%2FML&color=8B5CF6)
