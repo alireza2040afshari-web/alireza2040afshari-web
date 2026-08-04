@@ -19,12 +19,10 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupiter" />
 </p>
 
 ### 📚 Libraries & Concepts
-
-- Object-Oriented Programming (OOP)
 - Tkinter
 - NumPy
 - Pandas
@@ -35,9 +33,6 @@
 ## 🚀 Currently Learning
 
 - Django
-- Backend Development
-- REST APIs
-- Artificial Intelligence
 
 ---
 
