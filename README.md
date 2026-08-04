@@ -61,3 +61,10 @@
     </td>
   </tr>
 </table>
+## 🎮 Mini Game: Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake.svg" />
+  <img alt="github snake eating my contributions" src="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake.svg" />
+</picture>
