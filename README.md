@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alireza2040afshari-web&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alireza2040afshari-web&bg_color=0a0a0a&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=1a3320&hide_border=true&custom_title=Recent+Activity+(Last+30+Days)" alt="Activity Graph" />
 </p>
 
 ---
