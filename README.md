@@ -61,10 +61,33 @@
     </td>
   </tr>
 </table>
-## 🎮 Mini Game: Snake Eating My Contributions
+## 🎮 Mini Game: Tic Tac Toe
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake.svg" />
-  <img alt="github snake eating my contributions" src="https://raw.githubusercontent.com/alireza2040afshari-web/github-readme-snake/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <a href="https://github.com/alireza2040afshari-web">
+    <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-101621?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=600&lines=X+vs+O;Who+will+win?;Click+to+play+on+my+website!" />
+</p>
+
+<!-- یک صفحه شطرنجی زیبا -->
+<table align="center">
+  <tr>
+    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
+    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
+    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
+    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
+    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="60" height="60" bgcolor="#1f2937"></td>
+    <td align="center" width="60" height="60" bgcolor="#374151"></td>
+    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
+  </tr>
+</table>
