@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Alireza+Afshari;Python+Developer;Backend+Developer;Learning+Django+and+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Alireza+Afshari;Python+Developer;Learning+Django+and+AI" />
 </p>
 
 # 👋 Hi, I'm Alireza Afshari
@@ -12,7 +12,7 @@
 
 💻 Python Developer
 
-🌱 Currently learning **Django, Backend Development and Artificial Intelligence**
+🌱 Currently learning **Django and Artificial Intelligence**
 
 ---
 
@@ -38,18 +38,9 @@
 ## 🚀 Currently Learning
 
 - Django Framework
-- Backend Development
-- REST APIs
+- Backend Development Basics
 - Artificial Intelligence
 - Machine Learning
-
----
-
-## 📌 Projects
-
-- Python Practice Projects
-- GUI Applications with Tkinter
-- Data Analysis Projects with Pandas & NumPy
 
 ---
 
