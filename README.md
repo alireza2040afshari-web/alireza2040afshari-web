@@ -61,33 +61,34 @@
     </td>
   </tr>
 </table>
-## 🎮 Mini Game: Tic Tac Toe
+name: Generate Snake Game
 
-<p align="center">
-  <a href="https://github.com/alireza2040afshari-web">
-    <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-101621?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # هر ۶ ساعت یکبار آپدیت می‌شود
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=600&lines=X+vs+O;Who+will+win?;Click+to+play+on+my+website!" />
-</p>
-
-<!-- یک صفحه شطرنجی زیبا -->
-<table align="center">
-  <tr>
-    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
-    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
-    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
-    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
-    <td align="center" width="60" height="60" bgcolor="#374151"><b style="color:#EF4444;font-size:32px;">O</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="60" height="60" bgcolor="#1f2937"></td>
-    <td align="center" width="60" height="60" bgcolor="#374151"></td>
-    <td align="center" width="60" height="60" bgcolor="#1f2937"><b style="color:#3B82F6;font-size:32px;">X</b></td>
-  </tr>
-</table>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Generate GitHub Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: alireza2040afshari-web
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
