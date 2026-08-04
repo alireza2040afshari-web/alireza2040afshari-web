@@ -16,13 +16,8 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,git,github" />
+<img src="https://skillicons.dev/icons?i=python,git,github,Tkinter,NumPy,Pandas,Matplotlib" />
 </p>
-- Object-Oriented Programming (OOP)
-- Tkinter
-- NumPy
-- Pandas
-- Matplotlib
 ## 🌐 Connect with me
 
 <p align="left">
