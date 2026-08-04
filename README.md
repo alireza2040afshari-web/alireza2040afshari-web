@@ -22,5 +22,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/alireza2040afshari-web">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
 
