@@ -61,6 +61,11 @@
     </td>
   </tr>
 </table>
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alireza2040afshari-web&background=0a0a0a&border=22c55e&stroke=22c55e&ring=22c55e&fire=ff6d00&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=22c55e&dates=9ca3af&border_radius=10" alt="GitHub Streak Stats" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/alireza2040afshari-web/alireza2040afshari-web/main/assets/wave.svg" alt="wave footer" width="100%" />
 </p>
