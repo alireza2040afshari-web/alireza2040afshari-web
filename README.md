@@ -45,9 +45,31 @@
 ---
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/alireza2040afshari-web">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:alireza2040afshari@gmail.com">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAyMDAgNTAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://github.com/alireza2040afshari-web">
+        <img src="https://skillicons.dev/icons?i=github" width="48" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:alireza2040afshari@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="100">
+      <a href="https://linkedin.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+      </a>
+      <br>LinkedIn
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>📧 ایمیل مستقیم</summary>
+  <br>
+  <code>alireza2040afshari@gmail.com</code>
+</details>
