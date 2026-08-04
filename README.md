@@ -21,13 +21,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza2040afshari-web&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza2040afshari-web&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=alireza2040afshari-web&theme=github-dark&hide_border=true" />
 </p>
