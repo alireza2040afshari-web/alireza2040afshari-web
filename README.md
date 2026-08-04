@@ -45,11 +45,5 @@
 ---
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/alireza2040afshari-web">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:alireza2040afshari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+- 📧 **Email:** [alireza2040afshari@gmail.com](mailto:alireza2040afshari@gmail.com)
+- 💻 **GitHub:** [alireza2040afshari-web](https://github.com/alireza2040afshari-web)
