@@ -17,3 +17,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=alireza2040afshari-web&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza2040afshari-web&layout=compact&theme=github_dark)
+
+![](https://streak-stats.demolab.com?user=alireza2040afshari-web&theme=github-dark)
