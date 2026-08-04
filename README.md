@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&width=700&lines=👋+Hi+there!+I'm+Alireza+Afshari;🐍+Python+Developer;🤖+Learning+Django+and+AI;💻+Chemistry+Student+%7C+Code+Enthusiast" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alireza2040afshari-web&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -61,34 +64,3 @@
     </td>
   </tr>
 </table>
-name: Generate Snake Game
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # هر ۶ ساعت یکبار آپدیت می‌شود
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: Generate GitHub Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: alireza2040afshari-web
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
