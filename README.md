@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Alireza Afshari
 
-🎓 Chemistry Education Student at University of Tehran
+🎓 Chemistry Education Student at Shahid Rajaee Teacher Training University
 
 💻 Python Developer
 
@@ -25,19 +25,31 @@
 
 ---
 
-## 📚 Libraries & Concepts
+## 📚 Libraries & Tools
 
 - Tkinter
 - NumPy
 - Pandas
 - Matplotlib
+- Jupyter Notebook
 
 ---
 
 ## 🚀 Currently Learning
 
 - Django Framework
+- Backend Development
+- REST APIs
+- Artificial Intelligence
 - Machine Learning
+
+---
+
+## 📌 Projects
+
+- Python Practice Projects
+- GUI Applications with Tkinter
+- Data Analysis Projects with Pandas & NumPy
 
 ---
 
