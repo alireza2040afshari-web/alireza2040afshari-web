@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="wg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7b5e8e"/>
+      <stop offset="50%" stop-color="#a76e89"/>
+      <stop offset="100%" stop-color="#d3868a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- موج پشتی (کمرنگ‌تر) -->
+  <path fill="url(#wg)" opacity="0.45" d="M0,50 Q200,28 400,50 T800,50 L800,140 L0,140 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,50 Q200,28 400,50 T800,50 L800,140 L0,140 Z;
+              M0,50 Q200,72 400,50 T800,50 L800,140 L0,140 Z;
+              M0,50 Q200,28 400,50 T800,50 L800,140 L0,140 Z"/>
+  </path>
+
+  <!-- موج جلویی (اصلی) -->
+  <path fill="url(#wg)" opacity="0.9" d="M0,66 Q200,88 400,66 T800,66 L800,140 L0,140 Z">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,66 Q200,88 400,66 T800,66 L800,140 L0,140 Z;
+              M0,66 Q200,44 400,66 T800,66 L800,140 L0,140 Z;
+              M0,66 Q200,88 400,66 T800,66 L800,140 L0,140 Z"/>
+  </path>
+</svg>
