@@ -66,3 +66,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/alireza2040afshari-web/alireza2040afshari-web/main/assets/wave.svg" alt="wave footer" width="100%" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alireza2040afshari-web&theme=highcontrast&border_radius=10" alt="GitHub Streak Stats" />
+</p>
