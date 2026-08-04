@@ -59,17 +59,5 @@
       </a>
       <br>Email
     </td>
-    <td align="center" width="100">
-      <a href="https://linkedin.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-      </a>
-      <br>LinkedIn
-    </td>
   </tr>
 </table>
-
-<details>
-  <summary>📧 ایمیل مستقیم</summary>
-  <br>
-  <code>alireza2040afshari@gmail.com</code>
-</details>
