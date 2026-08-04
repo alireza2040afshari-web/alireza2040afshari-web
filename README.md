@@ -45,5 +45,9 @@
 ---
 ## 🌐 Connect with Me
 
-- 📧 **Email:** [alireza2040afshari@gmail.com](mailto:alireza2040afshari@gmail.com)
-- 💻 **GitHub:** [alireza2040afshari-web](https://github.com/alireza2040afshari-web)
+<p align="left">
+  <a href="https://github.com/alireza2040afshari-web">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:alireza2040afshari@gmail.com">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAyMDAgNTAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ
