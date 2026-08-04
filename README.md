@@ -27,7 +27,6 @@
 
 ## 📚 Libraries & Concepts
 
-- Object-Oriented Programming (OOP)
 - Tkinter
 - NumPy
 - Pandas
@@ -38,18 +37,7 @@
 ## 🚀 Currently Learning
 
 - Django Framework
-- Backend Development
-- REST APIs
-- Artificial Intelligence
 - Machine Learning
-
----
-
-## 📌 Projects
-
-- Python Practice Projects
-- GUI Applications with Tkinter
-- Data Analysis Projects with Pandas & NumPy
 
 ---
 
