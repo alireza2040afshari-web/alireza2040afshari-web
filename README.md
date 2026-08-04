@@ -65,13 +65,16 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alireza2040afshari-web&show_icons=true&bg_color=0a0a0a&border_color=22c55e&title_color=22c55e&text_color=ffffff&icon_color=ff6d00&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alireza2040afshari-web&bg_color=0a0a0a&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=1a3320&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza2040afshari-web&layout=compact&bg_color=0a0a0a&border_color=22c55e&title_color=22c55e&text_color=ffffff&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alireza2040afshari-web&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
