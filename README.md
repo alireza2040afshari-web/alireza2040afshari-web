@@ -60,8 +60,6 @@
       <br>Email
     </td>
   </tr>
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alireza2040afshari-web&background=0a0a0a&border=22c55e&stroke=22c55e&ring=22c55e&fire=ff6d00&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=22c55e&dates=9ca3af&border_radius=10&v=2" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza2040afshari-web&show_icons=true&bg_color=0a0a0a&border_color=22c55e&title_color=22c55e&text_color=ffffff&icon_color=ff6d00&border_radius=10" alt="GitHub Stats" />
 </p>
