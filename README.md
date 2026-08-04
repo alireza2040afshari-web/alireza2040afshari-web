@@ -12,17 +12,20 @@
 
 💻 Python Developer
 
-🌱 Currently learning **Django** and **Artificial Intelligence**
+🌱 Currently learning **Django, Backend Development and Artificial Intelligence**
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
 </p>
 
-### 📚 Libraries & Concepts
+---
+
+## 📚 Libraries & Concepts
 
 - Object-Oriented Programming (OOP)
 - Tkinter
@@ -34,10 +37,19 @@
 
 ## 🚀 Currently Learning
 
-- Django
+- Django Framework
 - Backend Development
 - REST APIs
 - Artificial Intelligence
+- Machine Learning
+
+---
+
+## 📌 Projects
+
+- Python Practice Projects
+- GUI Applications with Tkinter
+- Data Analysis Projects with Pandas & NumPy
 
 ---
 
